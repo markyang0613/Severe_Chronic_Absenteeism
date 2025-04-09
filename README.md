@@ -13,7 +13,11 @@ Design targeted interventions to prevent absenteeism.
 Improve overall school attendance rates.
 
 Key Findings
+
+
 📌 Significant Predictors of SCA:
+
+
 Total Attendance Rate: Strong negative correlation (−0.77)
 
 GPA (Cumulative & Current Weighted): Moderate negative correlation (−0.32)
@@ -23,6 +27,7 @@ Single-Parent Status: Weak positive correlation (+0.15)
 Special Education Status: Weak positive correlation (~+0.11)
 
 Students with lower attendance and academic performance are at the highest risk for SCA.
+
 
 📈 Model Performance
 Logistic Regression was used to predict SCA.
@@ -37,6 +42,9 @@ Students with:
 Attendance rates between 81% and 90%
 
 GPA below 2.5
+
+
+
 
 Single-parent household status
 
