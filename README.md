@@ -1,4 +1,4 @@
-## 📊 Predicting and Reducing Severe Chronic Absenteeism
+# 📊 Predicting and Reducing Severe Chronic Absenteeism
 
 
 
@@ -19,7 +19,7 @@ Improve overall school attendance rates.
 Key Findings
 
 
-📌 Significant Predictors of SCA:
+## 📌 Significant Predictors of SCA:
 
 
 Total Attendance Rate: Strong negative correlation (−0.77)
@@ -33,7 +33,7 @@ Special Education Status: Weak positive correlation (~+0.11)
 Students with lower attendance and academic performance are at the highest risk for SCA.
 
 
-📈 Model Performance
+## 📈 Model Performance
 Logistic Regression was used to predict SCA.
 
 High recall for students not in the SCA group (Class 0).
@@ -48,9 +48,7 @@ Attendance rates between 81% and 90%
 GPA below 2.5
 
 
-
-
-Single-parent household status
+## Single-parent household status
 
 These students show a higher potential for improvement and are the ideal candidates for preventative action.
 
