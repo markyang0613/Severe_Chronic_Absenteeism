@@ -1,6 +1,10 @@
-📊 
-Predicting and Reducing Severe Chronic Absenteeism
+📊 Predicting and Reducing Severe Chronic Absenteeism
+
+
+
 Overview
+
+
 This project identifies the most significant predictors of Severe Chronic Absenteeism (SCA) and proposes data-driven interventions to improve student attendance by at least 6%. Through statistical analysis and predictive modeling, we target at-risk students before they cross into severe absenteeism and recommend actionable strategies for early intervention.
 
 Objectives
